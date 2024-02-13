@@ -6,9 +6,9 @@
 <p align = "center">Tic Tac Toe game built with HTML, CSS and JavaScript</p>
 
 <p align="center">
-    <a href="" target="_blank">Visit Website</a>
+    <a href="https://tic-tac-toe-sahadcmd.vercel.app/" target="_blank">Visit Website</a>
     ·
-    <a href="" target="_blank">Report Bug</a>
+    <a href="https://github.com/sahadcmd/Tic-Tac-Toe/issues" target="_blank">Report Bug</a>
 </p>
 
 
