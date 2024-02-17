@@ -19,8 +19,8 @@ Upon selecting X or O, the playboard appears. Player names indicate turns. Click
 
 ## Technologies 🛠️
 
-* `HTML`
-* `CSS`
+* `HTML5`
+* `CSS3`
 * `JavaScript`
 
 ## How it looks 📷
