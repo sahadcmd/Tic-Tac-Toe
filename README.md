@@ -12,7 +12,6 @@
 </p>
 
 
-
 ## About this project 🚀
 
 Upon selecting X or O, the playboard appears. Player names indicate turns. Clicking a box reveals the selected character. After each move, the bot selects an unchosen box. When someone wins, the result box displays the winner with a replay button. If all boxes are selected without a winner, it's a draw. Clicking replay reloads the page for another game.
