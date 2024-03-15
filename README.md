@@ -3,7 +3,7 @@
 </div>
 
 <h1 align = "center"><b>Tic-Tac-Toe</b></h1>
-<p align = "center">Tic Tac Toe game built with HTML, CSS and JavaScript</p>
+<p align = "center">Tic Tac Toe game built with HTML, CSS and JavaScript </p>
 
 <p align="center">
     <a href="https://tic-tac-toe-sahadcmd.vercel.app/" target="_blank">Visit Website</a>
