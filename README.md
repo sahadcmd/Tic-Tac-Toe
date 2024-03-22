@@ -9,7 +9,7 @@
     <a href="https://tic-tac-toe-sahadcmd.vercel.app/" target="_blank">Visit Website</a>
     ·
     <a href="https://github.com/sahadcmd/Tic-Tac-Toe/issues" target="_blank">Report Bug</a>
-</p>
+</p>  
 
 
 ## About this project 🚀
